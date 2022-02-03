@@ -1,7 +1,7 @@
-#Welcome to Luca-App Api
+#Welcome to Community App APIs
 
 ###Intro
-Purpose of this APIs are provide interface to application to get Questions their Answer & data of reactions by the users on them.
+Purpose of this APIs are provide interface to application to get Questions their Answer & data of reactions of users on them.
 
 ###Technology & Tools
 PHP 8.0.14
@@ -22,4 +22,4 @@ Laravel 8.12.
 - You can find .insomnia_api.json in root directory
 
 
-> Incase you need help or want to give suggestions, please contact me on tarkarvishal@gmail.com
+> Incase you need help or want to give suggestions, please contact me on vishal@tarkar.com
